@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 750" role="img" aria-labelledby="title desc">
+ <title id="title">Seguro de vida em grupo</title><desc id="desc">Composição editorial sobre a proteção das pessoas de uma empresa.</desc>
+ <rect width="1200" height="750" fill="#eaf0f7"/>
+ <circle cx="1035" cy="112" r="210" fill="#d8e4f3"/>
+ <text x="96" y="138" fill="#075ac8" font-family="Arial,Helvetica,sans-serif" font-size="30" font-weight="700" letter-spacing="6">SEGURO DE VIDA</text>
+ <text x="96" y="206" fill="#081730" font-family="Georgia,serif" font-size="68">Proteção em grupo</text>
+ <g transform="translate(110 292)" fill="none" stroke="#081730" stroke-width="10" stroke-linecap="round" stroke-linejoin="round">
+  <circle cx="150" cy="74" r="48"/><circle cx="310" cy="54" r="58"/><circle cx="482" cy="74" r="48"/>
+  <path d="M54 250c8-82 40-123 96-123s88 41 96 123M192 273c9-105 48-157 118-157s109 52 118 157M386 250c8-82 40-123 96-123s88 41 96 123"/>
+  <path d="M685 8 826 69v102c0 91-53 155-141 199-88-44-141-108-141-199V69L685 8Z" stroke="#075ac8" stroke-width="13"/>
+  <path d="m622 177 44 44 89-98" stroke="#c5a059" stroke-width="16"/>
+ </g>
+ <text x="819" y="634" fill="#566278" font-family="Arial,Helvetica,sans-serif" font-size="24">Pessoas cuidadas.</text>
+</svg>

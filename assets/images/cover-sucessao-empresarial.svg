@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 750" role="img" aria-labelledby="title desc">
+ <title id="title">Sucessão empresarial</title><desc id="desc">Composição editorial sobre continuidade e sucessão de uma empresa.</desc>
+ <rect width="1200" height="750" fill="#081730"/>
+ <path d="M0 590 290 420l220 72 292-246 398 162v342H0Z" fill="#0f3262"/>
+ <path d="M114 112h972" stroke="#c5a059" stroke-width="4"/>
+ <text x="114" y="176" fill="#f7f9fc" font-family="Arial,Helvetica,sans-serif" font-size="34" font-weight="700" letter-spacing="7">SUCESSÃO EMPRESARIAL</text>
+ <g transform="translate(115 265)" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <rect x="0" y="42" width="270" height="212" rx="14" stroke="#f7f9fc" stroke-width="8"/>
+  <path d="M52 42V0h166v42M66 108h138M66 158h92" stroke="#f7f9fc" stroke-width="8"/>
+  <path d="m336 152 112-79 112 79" stroke="#c5a059" stroke-width="11"/>
+  <path d="M448 76v224" stroke="#c5a059" stroke-width="11"/>
+  <circle cx="448" cy="76" r="18" fill="#c5a059" stroke="none"/>
+  <path d="M630 52h322M630 105h250M630 158h286" stroke="#6ea8ef" stroke-width="8"/>
+ </g>
+ <text x="744" y="590" fill="#ffffff" font-family="Georgia,serif" font-size="64">Continuidade</text>
+ <text x="746" y="642" fill="#b9c8db" font-family="Arial,Helvetica,sans-serif" font-size="24">Planejar hoje protege o amanhã.</text>
+</svg>

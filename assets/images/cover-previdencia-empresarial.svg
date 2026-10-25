@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 750" role="img" aria-labelledby="title desc">
+ <title id="title">Previdência privada empresarial</title><desc id="desc">Composição editorial sobre planejamento de longo prazo e benefícios.</desc>
+ <rect width="1200" height="750" fill="#075ac8"/>
+ <path d="M0 0h1200v196L0 402Z" fill="#064baf"/>
+ <text x="96" y="132" fill="#ffffff" font-family="Arial,Helvetica,sans-serif" font-size="30" font-weight="700" letter-spacing="6">PREVIDÊNCIA EMPRESARIAL</text>
+ <text x="96" y="212" fill="#ffffff" font-family="Georgia,serif" font-size="72">Planejamento que avança</text>
+ <g transform="translate(96 312)">
+  <path d="M0 300h1008" stroke="#8ebbf4" stroke-width="4"/>
+  <rect x="54" y="228" width="124" height="72" rx="8" fill="#e9f2fd"/>
+  <rect x="244" y="170" width="124" height="130" rx="8" fill="#d6e7fb"/>
+  <rect x="434" y="106" width="124" height="194" rx="8" fill="#c2dcfa"/>
+  <rect x="624" y="42" width="124" height="258" rx="8" fill="#add0f8"/>
+  <path d="m102 210 208-100 190 15L686 4 872 44" fill="none" stroke="#c5a059" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+  <g fill="#c5a059"><circle cx="102" cy="210" r="15"/><circle cx="310" cy="110" r="15"/><circle cx="500" cy="125" r="15"/><circle cx="686" cy="4" r="15"/><circle cx="872" cy="44" r="15"/></g>
+  <path d="m844 6 54 42-52 35" fill="none" stroke="#c5a059" stroke-width="11" stroke-linecap="round" stroke-linejoin="round"/>
+ </g>
+ <text x="96" y="682" fill="#d9e8fb" font-family="Arial,Helvetica,sans-serif" font-size="24">Benefício, retenção e futuro.</text>
+</svg>
